@@ -56,6 +56,8 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 
 ## 🏆 Certificações & Cursos
 
+<div align="center">
+  
 | Curso | Plataforma | Status |
 |-------|-----------|--------|
 | Google AI Essentials | Coursera | ✅ Concluído |
@@ -66,6 +68,8 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 | Desenvolvimento Web: HTML e CSS | IFSP | ✅ Concluído |
 | Introdução à Lógica de Programação | EMBRAPII | ✅ Concluído |
 | Certificação Hands-on Front-End Developer | Gran Faculdade | ✅ Concluído |
+
+</div>
 
 ---
 
