@@ -49,8 +49,7 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alailson-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alailson-Nascimento&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alailson-Nascimento&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
 </div>
 
 ---
