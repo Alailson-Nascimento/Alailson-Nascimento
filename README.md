@@ -1,14 +1,14 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Alailson%20Nascimento&fontSize=40&fontColor=ffffff&animation=fadeIn" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Alailson%20Nascimento&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+</div>
 
-&lt;h3 align="center"&gt;👨‍💻 Estudante de Sistemas de Informação | Desenvolvimento Web | Suporte Técnico&lt;/h3&gt;
+<h3 align="center">👨‍💻 Estudante de Sistemas de Informação | Desenvolvimento Web | Suporte Técnico</h3>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Salvador-BA-2ea44f?style=flat-square&logo=map-pin&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Status-Estudante-blue?style=flat-square" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20BI-purple?style=flat-square" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Salvador-BA-2ea44f?style=flat-square&logo=map-pin&logoColor=white" alt="local" />
+  <img src="https://img.shields.io/badge/Status-Estudante-blue?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20BI-purple?style=flat-square" alt="focus" />
+</p>
 
 ---
 
@@ -28,26 +28,30 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
 ### Ferramentas & Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alailson-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alailson-Nascimento&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/&gt;
-&lt;/div&gt;
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alailson-Nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alailson-Nascimento&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Top Languages" />
+</div>
 
 ---
 
@@ -56,7 +60,7 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 | Curso | Plataforma | Status |
 |-------|-----------|--------|
 | Google AI Essentials | Coursera | ✅ Concluído |
-| Discover (Rocketseat) | Rocketseat | ✅ Concluído |
+| Discover | Rocketseat | ✅ Concluído |
 | Formação Desenvolvimento Pessoal G9-ONE | Alura | ✅ Concluído |
 | Navegação e Interface do n8n | DIO | ✅ Concluído |
 | Primeiros Passos com n8n | DIO | ✅ Concluído |
@@ -68,7 +72,7 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 
 ## 📂 Projetos em Destaque
 
-&lt;div align="center"&gt;
+<div align="center">
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -77,26 +81,26 @@ Tenho experiência prática em desenvolvimento e manutenção de websites com **
 | [**Java - Primeira Aplicação**](https://github.com/Alailson-Nascimento/exercicios-java-alura) | Exercícios do curso ONE - Alura | Java |
 | [**Lógica de Programação**](https://github.com/Alailson-Nascimento/logica-programacao) | Projeto do Programa ONE + Alura | JavaScript |
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📫 Contato
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/alailson-nascimento/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:alailsonnascimento707@gmail.com" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.instagram.com/alailson.dev/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/alailson-nascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alailsonnascimento707@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/alailson.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="footer" />
+</div>
